@@ -7,5 +7,5 @@
 
 import Foundation
 
-testAbstractFactory()
+testBuilderDesignPattern()
 
