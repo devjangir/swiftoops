@@ -7,5 +7,5 @@
 
 import Foundation
 
-testFactory()
+testAbstractFactory()
 
