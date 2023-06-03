@@ -7,5 +7,5 @@
 
 import Foundation
 
-testBuilderDesignPattern()
+testSingleton()
 
