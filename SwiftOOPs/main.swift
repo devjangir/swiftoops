@@ -7,5 +7,5 @@
 
 import Foundation
 
-testAdapter()
+testDecorator()
 
