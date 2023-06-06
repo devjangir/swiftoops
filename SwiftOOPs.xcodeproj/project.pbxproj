@@ -12,6 +12,7 @@
 		918D29192A27392600F31EA4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918D29182A27392600F31EA4 /* main.swift */; };
 		918D29202A274EF100F31EA4 /* Factory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918D291F2A274EF100F31EA4 /* Factory.swift */; };
 		918D29302A2760F100F31EA4 /* AbstractFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918D292F2A2760F100F31EA4 /* AbstractFactory.swift */; };
+		91BD64FE2A2F312F00F07AEC /* Adapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91BD64FD2A2F312F00F07AEC /* Adapter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		918D29182A27392600F31EA4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		918D291F2A274EF100F31EA4 /* Factory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Factory.swift; sourceTree = "<group>"; };
 		918D292F2A2760F100F31EA4 /* AbstractFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractFactory.swift; sourceTree = "<group>"; };
+		91BD64FD2A2F312F00F07AEC /* Adapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Adapter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				918D292F2A2760F100F31EA4 /* AbstractFactory.swift */,
 				911268D52A29F00D006666DF /* Builder.swift */,
 				913F18782A2AEB7D0060A200 /* Singleton.swift */,
+				91BD64FD2A2F312F00F07AEC /* Adapter.swift */,
 			);
 			path = SwiftOOPs;
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				918D29302A2760F100F31EA4 /* AbstractFactory.swift in Sources */,
+				91BD64FE2A2F312F00F07AEC /* Adapter.swift in Sources */,
 				918D29202A274EF100F31EA4 /* Factory.swift in Sources */,
 				918D29192A27392600F31EA4 /* main.swift in Sources */,
 				913F18792A2AEB7D0060A200 /* Singleton.swift in Sources */,

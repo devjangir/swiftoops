@@ -7,7 +7,7 @@
 
 import Foundation
 
-final public class EventLogger {
+ public class EventLogger {
     private let serialQueue = DispatchQueue(label: "SerialQueue")
     public static let shared = EventLogger()
     private init() {}
@@ -33,8 +33,9 @@ final public class EventLogger {
 }
 
 func testSingleton() {
+    let logger = EventLogger.shared
+    print(logger)
     let count = 100
-    
     for index in 0..<count{
         EventLogger.shared.writeLog(key: String(index), content: String(index))
     }
