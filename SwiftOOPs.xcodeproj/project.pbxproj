@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		911268D62A29F00D006666DF /* Builder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911268D52A29F00D006666DF /* Builder.swift */; };
+		91133BB02A30858600B7C61D /* COResponsibility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91133BAF2A30858600B7C61D /* COResponsibility.swift */; };
 		913F18792A2AEB7D0060A200 /* Singleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 913F18782A2AEB7D0060A200 /* Singleton.swift */; };
 		918D29192A27392600F31EA4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918D29182A27392600F31EA4 /* main.swift */; };
 		918D29202A274EF100F31EA4 /* Factory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918D291F2A274EF100F31EA4 /* Factory.swift */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		911268D52A29F00D006666DF /* Builder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Builder.swift; sourceTree = "<group>"; };
+		91133BAF2A30858600B7C61D /* COResponsibility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = COResponsibility.swift; sourceTree = "<group>"; };
 		913F18782A2AEB7D0060A200 /* Singleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Singleton.swift; sourceTree = "<group>"; };
 		918D29152A27392600F31EA4 /* SwiftOOPs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftOOPs; sourceTree = BUILT_PRODUCTS_DIR; };
 		918D29182A27392600F31EA4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				913F18782A2AEB7D0060A200 /* Singleton.swift */,
 				91BD64FD2A2F312F00F07AEC /* Adapter.swift */,
 				91BD64FF2A2F4A8C00F07AEC /* Decorator.swift */,
+				91133BAF2A30858600B7C61D /* COResponsibility.swift */,
 			);
 			path = SwiftOOPs;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				918D29302A2760F100F31EA4 /* AbstractFactory.swift in Sources */,
 				91BD64FE2A2F312F00F07AEC /* Adapter.swift in Sources */,
 				918D29202A274EF100F31EA4 /* Factory.swift in Sources */,
+				91133BB02A30858600B7C61D /* COResponsibility.swift in Sources */,
 				918D29192A27392600F31EA4 /* main.swift in Sources */,
 				913F18792A2AEB7D0060A200 /* Singleton.swift in Sources */,
 				911268D62A29F00D006666DF /* Builder.swift in Sources */,
