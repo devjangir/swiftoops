@@ -13,6 +13,7 @@
 		918D29192A27392600F31EA4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918D29182A27392600F31EA4 /* main.swift */; };
 		918D29202A274EF100F31EA4 /* Factory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918D291F2A274EF100F31EA4 /* Factory.swift */; };
 		918D29302A2760F100F31EA4 /* AbstractFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918D292F2A2760F100F31EA4 /* AbstractFactory.swift */; };
+		9192AC152A31D4FC006A2467 /* Strategy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9192AC142A31D4FC006A2467 /* Strategy.swift */; };
 		91BD64FE2A2F312F00F07AEC /* Adapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91BD64FD2A2F312F00F07AEC /* Adapter.swift */; };
 		91BD65002A2F4A8C00F07AEC /* Decorator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91BD64FF2A2F4A8C00F07AEC /* Decorator.swift */; };
 /* End PBXBuildFile section */
@@ -37,6 +38,7 @@
 		918D29182A27392600F31EA4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		918D291F2A274EF100F31EA4 /* Factory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Factory.swift; sourceTree = "<group>"; };
 		918D292F2A2760F100F31EA4 /* AbstractFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractFactory.swift; sourceTree = "<group>"; };
+		9192AC142A31D4FC006A2467 /* Strategy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Strategy.swift; sourceTree = "<group>"; };
 		91BD64FD2A2F312F00F07AEC /* Adapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Adapter.swift; sourceTree = "<group>"; };
 		91BD64FF2A2F4A8C00F07AEC /* Decorator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Decorator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -78,6 +80,7 @@
 				913F18782A2AEB7D0060A200 /* Singleton.swift */,
 				91BD64FD2A2F312F00F07AEC /* Adapter.swift */,
 				91BD64FF2A2F4A8C00F07AEC /* Decorator.swift */,
+				9192AC142A31D4FC006A2467 /* Strategy.swift */,
 				91133BAF2A30858600B7C61D /* COResponsibility.swift */,
 			);
 			path = SwiftOOPs;
@@ -146,6 +149,7 @@
 				918D29202A274EF100F31EA4 /* Factory.swift in Sources */,
 				91133BB02A30858600B7C61D /* COResponsibility.swift in Sources */,
 				918D29192A27392600F31EA4 /* main.swift in Sources */,
+				9192AC152A31D4FC006A2467 /* Strategy.swift in Sources */,
 				913F18792A2AEB7D0060A200 /* Singleton.swift in Sources */,
 				911268D62A29F00D006666DF /* Builder.swift in Sources */,
 				91BD65002A2F4A8C00F07AEC /* Decorator.swift in Sources */,
